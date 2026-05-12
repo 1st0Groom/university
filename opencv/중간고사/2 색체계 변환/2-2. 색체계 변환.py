@@ -1,3 +1,4 @@
+# 색 체계 변환 2
 import cv2 as cv
 import sys
 import os 
